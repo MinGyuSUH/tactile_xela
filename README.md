@@ -1,4 +1,8 @@
-install
+%% xela_server_ros2/scripts/xela_service.py 에서 time을 서버 시간으로 수정함
+%% L-mode로 자동으로 바꾸는 파이썬 파일을 만듦
+
+
+install (xela_sensor)
 
 ```bash
 sudo apt install libfuse2
@@ -15,7 +19,7 @@ sudo ifconfig can0 up
 ./xela_viz # 창 띄워서 visualizing
 ```
 
-ROS 2
+ROS 2 (xela_server_ros2)
 
 ```bash
 git clone https://github.com/mcsix/xela_server_ros2.git
