@@ -4,6 +4,11 @@
 
 
 install (xela_sensor)
+```bash
+git clone https://github.com/mcsix/xela_server_ros2.git
+```
+https://xela.lat-d5.com/ 에서 software 최신 버전 설치 (xela_sensor) <br><br>
+
 
 ```bash
 sudo apt install libfuse2
