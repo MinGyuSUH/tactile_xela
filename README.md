@@ -5,7 +5,7 @@ L-mode로 자동으로 바꾸는 파이썬 파일을 만듦 <br><br>
 
 ## install (xela_sensor)
 
-https://xela.lat-d5.com/ 에서 software 최신 버전 설치 (xela_sensor) 
+https://xela.lat-d5.com/ 에서 software 최신 버전 설치
 
 ```bash
 sudo apt install libfuse2
